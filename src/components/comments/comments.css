@@ -1,0 +1,22 @@
+.comment-img {
+  height: 100%;
+}
+.text-content {
+   text-align: center;
+   padding: 40px;
+   font-family: Lato, sans-serif;
+   font-weight: 400;
+   line-height: 1.5rem;
+}
+.comment-user-name {
+  font-size: 1.3rem;
+}
+.comment-position {
+  font-size: 1.3rem;
+  margin-top: 15px;
+  padding-bottom: 30px;
+}
+.comment {
+  font-size: 1.1rem;
+  text-align: justify;
+}
