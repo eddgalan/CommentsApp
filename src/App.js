@@ -5,7 +5,7 @@ import Comment from './components/comments/comments';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <div className="text-center">
         <h1 className="text-center"> Comments </h1>
         <div className="p-5">
